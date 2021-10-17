@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Google",
+        "address": "1600 ampiteatre parkway montain view CA. United Date ",
+        "revenue": "99999",
+        "phone": "123456789"
+    },
+    {
+        "id": "de827eb0-2f61-11ec-aab5-799b6f01b279",
+        "name": "Alibaba",
+        "address": "Hangzou",
+        "revanue": "999",
+        "phone": "570"
+    }
+]
